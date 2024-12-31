@@ -1,0 +1,6 @@
+Full Name: Kovalenko Ivan Vasylovych
+Birth Date: 2000-05-15
+Phone: +123456789
+City: Kyiv, Country: Ukraine
+Institute: National University (Kyiv, Ukraine)
+Group Number: 15.5
